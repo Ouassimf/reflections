@@ -20,3 +20,7 @@ forks
 How do the diagrams help you visualize the branch structure?
 
 we can see the branches
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+Merged
