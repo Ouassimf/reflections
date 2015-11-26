@@ -10,3 +10,13 @@ Its a buffered area.
 How can you use the staging area to make sure you have one commit per logical change?
 
 only add files that make sense
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+making new experimental function
+languages
+forks
+
+How do the diagrams help you visualize the branch structure?
+
+we can see the branches
