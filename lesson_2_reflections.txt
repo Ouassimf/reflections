@@ -24,3 +24,11 @@ we can see the branches
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 Merged
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Auto pro : Fast
+AUto con : Code error
+
+manual pro : no error
+manual cons : slow , time consuming
